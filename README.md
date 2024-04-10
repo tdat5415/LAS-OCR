@@ -37,6 +37,12 @@ plt.imshow(img[...,::-1])
 
 ---
 
+### Visual Attention Score
+![image](https://github.com/tetrapod0/LAS-OCR/assets/48349693/bf1aed60-e16c-4166-a02d-560b55b44536)
+
+
+---
+
 ### Reference
 
 [Listen-Attend-and-Spell-Pytorch](https://github.com/AzizCode92/Listen-Attend-and-Spell-Pytorch)
