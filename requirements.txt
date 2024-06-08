@@ -8,7 +8,8 @@ tqdm
 
 keras
 
-jupyterlab==3.6.3
+jupyter
+# jupyterlab==3.6.3
 
 # tensorflow
 # auto-py-to-exe
